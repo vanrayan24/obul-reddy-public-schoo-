@@ -1,0 +1,70 @@
+#videos {
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+	background-color: cadetblue
+}
+#MarqueeStyle{
+	background-color: #ADD8E6;
+}
+#nav2{
+    background-color: #5353f1e0;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+#aboutus_main{
+	border: 1px solid #c7c7c7;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none
+}
+#aboutus_main img{
+    width: 100%
+}
+#aboutus_main hr{
+	width: 230px	
+}
+#aboutus_main h5, #aboutus main p{
+	margin-left: 20px;
+	
+}
+.book{
+	cursor: pointer;
+}
+.book hr{
+	margin-bottom: 10px;
+}
+.model-content{
+	margin-top: 100px;
+}
+.img_modal{
+	display: inline-block;
+}
+.p_modal{
+	margin-top: 10px;
+}
+.modal-body{
+	text-align: center;
+}
+.row{
+    background-color: salmon;
+}
+.bg-image {
+    /* The image used */
+    background-image: url("SCO_7303.jpg");
+    
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    
+    /* Full height */
+    height: 100%; 
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
