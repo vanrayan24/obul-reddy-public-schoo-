@@ -1,0 +1,80 @@
+#videos {
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+	background-color: cadetblue
+}
+#MarqueeStyle{
+	background-color: #ADD8E6;
+	color: black;
+	font-family: 'Playfair Display', serif;
+}
+#nav2{
+    background-color: #5353f1e0;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+#aboutus_main{
+	border: 1px solid #c7c7c7;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: none;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+#aboutus_main img{
+    width: 100%
+}
+#aboutus_main hr{
+	width: 230px	
+}
+#aboutus_main h5, #aboutus main p{
+	margin-left: 20px;
+	
+}
+.book{
+	cursor: pointer;
+}
+.book hr{
+	margin-bottom: 10px;
+}
+.model-content{
+	margin-top: 100px;
+}
+.img_modal{
+	display: inline-block;
+}
+.p_modal{
+	margin-top: 10px;
+}
+.modal-body{
+	text-align: center;
+}
+.row{
+    background-color: salmon;
+	font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-image:url('Untitled\ design.png');
+    color: white;
+}
+.line {
+	height: 6px;
+	background-color: white;
+	width: 200px;
+	margin: 8px;
+}
+.img-circle{
+	border: brown 10px ridge;
+}
+#video{
+	border: 10px beige ridge ;
+
+}
+h2{
+	font-size: 35px;
+	font-family: 'Roboto Slab', serif;
+}
